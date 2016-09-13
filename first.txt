@@ -6,5 +6,3 @@ callback removed 22
 second line 2
 callback removed 23
 callback removed 24
-callback removed 24
-callback removed 24
