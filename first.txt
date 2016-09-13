@@ -1,7 +1,10 @@
 first line
 callback removed 21
 callback removed 22
+callback removed 21
+callback removed 22
 second line 2
 callback removed 23
 callback removed 24
-third line
+callback removed 24
+callback removed 24
